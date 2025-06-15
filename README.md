@@ -1,6 +1,6 @@
 # CS661-Assignment-1
 
-# README - 2D Isocontour Extraction & VTK Volume Rendering
+# Isocontour Extraction & VTK Volume Rendering
 
 **Question-1 (IsoContour)**
 
